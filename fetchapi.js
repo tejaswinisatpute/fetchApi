@@ -37,7 +37,7 @@ function postData(e) {
   let text = document.getElementById("input").value;
   let textarea = document.getElementById("textarea").value;
   console.log(text);
-  console.log(textarea);
+//   console.log(textarea);
 
   // POST request using fetch()
   fetch("https://jsonplaceholder.typicode.com/posts", {
