@@ -2,7 +2,7 @@ let data = document.getElementById("data");
 let result = document.getElementById("result");
 let spineer = document.getElementById("spineer");
 let submitdata = document.getElementById("submitData")
-
+// hi am new
 data.addEventListener("click", getData);
 submitdata.addEventListener("click", postData);
 
